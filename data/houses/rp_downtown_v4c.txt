@@ -1,0 +1,1747 @@
+"Out"
+{
+	"1"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3325"
+				"x"		"833"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Apartment #6"
+		"category"		"Apartments"
+		"id"		"town_apartment_6"
+		"price"		"750"
+		"icon"		"houses/downtown/town_apartments_2"
+		"description"		"A medium-sized apartment."
+	}
+	"2"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"407"
+				"x"		"563"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"404"
+				"x"		"694"
+				"model"		"*14"
+				"z"		"-114"
+			}
+		}
+		"name"		"Town Shop #5"
+		"category"		"Shops"
+		"id"		"town_shop_5"
+		"price"		"750"
+		"icon"		"houses/downtown/town_shop_5"
+		"description"		"A small shop."
+	}
+	"3"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"2913"
+				"x"		"1065"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"14"
+			}
+			"2"
+			{
+				"Y"		"3013"
+				"x"		"1225"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"14"
+			}
+			"3"
+			{
+				"Y"		"3388"
+				"x"		"698"
+				"model"		"*127"
+				"z"		"14"
+			}
+			"4"
+			{
+				"Y"		"3388"
+				"x"		"798"
+				"model"		"*128"
+				"z"		"14"
+			}
+		}
+		"name"		"Town Apartment #7"
+		"category"		"Apartments"
+		"id"		"town_apartment_7"
+		"price"		"2000"
+		"icon"		"houses/downtown/town_apartments_2"
+		"description"		"A large apartment."
+	}
+	"4"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2435"
+				"x"		"-1504"
+				"model"		"*11"
+				"z"		"-136"
+			}
+			"2"
+			{
+				"Y"		"-2433"
+				"x"		"-1613"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"-2435.5"
+				"x"		"-1140.5200195313"
+				"model"		"*54"
+				"z"		"-118"
+			}
+			"4"
+			{
+				"Y"		"-2435.5"
+				"x"		"-1296.0200195313"
+				"model"		"*53"
+				"z"		"-118"
+			}
+		}
+		"name"		"Garage"
+		"category"		"Business"
+		"id"		"garage"
+		"price"		"1000"
+		"icon"		"houses/downtown/garage"
+		"description"		"A garage in the town square."
+	}
+	"5"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2769"
+				"x"		"-326"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-97"
+			}
+		}
+		"name"		"Slums Apartment #2"
+		"category"		"Apartments"
+		"id"		"slums_apartment_2"
+		"price"		"250"
+		"icon"		"houses/downtown/slums_apartments_1"
+		"description"		"A very small apartment in the slums."
+	}
+	"6"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3299"
+				"x"		"1461"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Apartment #5"
+		"category"		"Apartments"
+		"id"		"town_apartment_5"
+		"price"		"750"
+		"icon"		"houses/downtown/town_apartments_2"
+		"description"		"A medium-sized apartment."
+	}
+	"7"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2086"
+				"x"		"-872"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14"
+			}
+			"2"
+			{
+				"Y"		"-2242"
+				"x"		"-1034"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14"
+			}
+		}
+		"name"		"Town Apartment #1"
+		"category"		"Apartments"
+		"id"		"town_apartment_1"
+		"price"		"500"
+		"icon"		"houses/downtown/town_apartments_1"
+		"description"		"A small apartment overlooking the town square."
+	}
+	"8"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-5918"
+				"x"		"-1878"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+			"2"
+			{
+				"Y"		"-5593"
+				"x"		"-1787"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+		}
+		"name"		"Suburbs House #3"
+		"category"		"Houses"
+		"id"		"suburbs_house_3"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_house_234"
+		"description"		"A small house in the suburbs."
+	}
+	"9"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4812"
+				"x"		"3101"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"54"
+			}
+			"2"
+			{
+				"Y"		"4657"
+				"x"		"2612"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"54"
+			}
+		}
+		"name"		"Slums Apartment #7"
+		"category"		"Apartments"
+		"id"		"slums_apartment_7"
+		"price"		"1000"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A medium-sized apartment in the slums."
+	}
+	"10"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"2485"
+				"x"		"3675"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"2127"
+				"x"		"3511"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"3"
+			{
+				"Y"		"2379"
+				"x"		"3631"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-8.7187995910645"
+			}
+			"4"
+			{
+				"Y"		"2127"
+				"x"		"3625"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-8.7187995910645"
+			}
+		}
+		"name"		"House #4"
+		"category"		"Houses"
+		"id"		"house_4"
+		"price"		"3000"
+		"icon"		"houses/downtown/house_4"
+		"description"		"A large house."
+	}
+	"11"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4785"
+				"x"		"3269"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-82"
+			}
+		}
+		"name"		"Slums Apartment #3"
+		"category"		"Apartments"
+		"id"		"slums_apartment_3"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"12"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-5918.8999023438"
+				"x"		"-1544"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+			"2"
+			{
+				"Y"		"-5593"
+				"x"		"-1525"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-144.71699523926"
+			}
+		}
+		"name"		"Suburbs House #4"
+		"category"		"Houses"
+		"id"		"suburbs_house_4"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_house_234"
+		"description"		"A small house in the suburbs."
+	}
+	"13"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"402.9089050293"
+				"x"		"-190"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-138"
+			}
+			"2"
+			{
+				"Y"		"63"
+				"x"		"-305"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-10"
+			}
+			"3"
+			{
+				"Y"		"150.0099029541"
+				"x"		"-495.97009277344"
+				"model"		"*108"
+				"z"		"119.98979949951"
+			}
+			"4"
+			{
+				"Y"		"63"
+				"x"		"-305"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"118"
+			}
+		}
+		"name"		"Office"
+		"category"		"Business"
+		"id"		"office"
+		"price"		"3000"
+		"icon"		"houses/downtown/office"
+		"description"		"A large office."
+	}
+	"14"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3286"
+				"x"		"-523"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"3391"
+				"x"		"-995"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"3391"
+				"x"		"-1300"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"4"
+			{
+				"Y"		"3820"
+				"x"		"-526.5"
+				"model"		"*89"
+				"z"		"-102"
+			}
+			"5"
+			{
+				"Y"		"3586"
+				"x"		"-526.5"
+				"model"		"*88"
+				"z"		"-102"
+			}
+		}
+		"name"		"Warehouse #1"
+		"category"		"Business"
+		"id"		"warehouse"
+		"price"		"1500"
+		"icon"		"houses/downtown/warehouse_1"
+		"description"		"A warehouse."
+	}
+	"15"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4657"
+				"x"		"2565"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-82"
+			}
+		}
+		"name"		"Slums Apartment #6"
+		"category"		"Apartments"
+		"id"		"slums_apartment_6"
+		"price"		"1000"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A medium-sized apartment in the slums."
+	}
+	"16"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1363"
+				"x"		"-816"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"122"
+			}
+			"2"
+			{
+				"Y"		"-1005"
+				"x"		"-856"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"122"
+			}
+			"3"
+			{
+				"Y"		"-941"
+				"x"		"-925"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"122"
+			}
+			"4"
+			{
+				"Y"		"-1303"
+				"x"		"-810"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"122"
+			}
+		}
+		"name"		"Town Apartment Suite #2"
+		"category"		"Apartments"
+		"id"		"town_apartment_suite_2"
+		"price"		"1500"
+		"icon"		"houses/downtown/town_apartment_suites"
+		"description"		"A nice apartment overlooking the town square."
+	}
+	"17"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7175"
+				"x"		"76"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-5.75"
+			}
+			"2"
+			{
+				"Y"		"-6837"
+				"x"		"-113"
+				"model"		"*157"
+				"z"		"-5"
+			}
+			"3"
+			{
+				"Y"		"-7041"
+				"x"		"-74"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-5.75"
+			}
+		}
+		"name"		"Suburbs Apartment #2"
+		"category"		"Apartments"
+		"id"		"suburbs_apartment_2"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_apartments"
+		"description"		"A small apratment in the suburbs."
+	}
+	"18"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2533"
+				"x"		"-326"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-97"
+			}
+		}
+		"name"		"Slums Apartment #1"
+		"category"		"Apartments"
+		"id"		"slums_apartment_1"
+		"price"		"250"
+		"icon"		"houses/downtown/slums_apartments_1"
+		"description"		"A very small apartment in the slums."
+	}
+	"19"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"787"
+				"x"		"2786"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+		}
+		"name"		"House #2"
+		"category"		"Houses"
+		"id"		"house_2"
+		"price"		"1500"
+		"icon"		"houses/downtown/house_2"
+		"description"		"A medium-sized house."
+	}
+	"20"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1303"
+				"x"		"-810"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"250"
+			}
+			"2"
+			{
+				"Y"		"-1005"
+				"x"		"-855.99908447266"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"250"
+			}
+			"3"
+			{
+				"Y"		"-941"
+				"x"		"-924.99908447266"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"250"
+			}
+		}
+		"name"		"Town Apartment Suite #3"
+		"category"		"Apartments"
+		"id"		"town_apartment_suite_3"
+		"price"		"1250"
+		"icon"		"houses/downtown/town_apartment_suites"
+		"description"		"A nice apartment overlooking the town square."
+	}
+	"21"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"1035"
+				"x"		"2793"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Storage Building #1"
+		"category"		"Business"
+		"id"		"storage_1"
+		"price"		"750"
+		"icon"		"houses/downtown/storage_1"
+		"description"		"A building in which to store your things."
+	}
+	"22"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7175"
+				"x"		"-544"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-5.75"
+			}
+			"2"
+			{
+				"Y"		"-6837"
+				"x"		"-347"
+				"model"		"*154"
+				"z"		"-5"
+			}
+		}
+		"name"		"Suburbs Apartment #1"
+		"category"		"Apartments"
+		"id"		"suburbs_apartment_1"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_apartments"
+		"description"		"A small apartment in the suburbs."
+	}
+	"23"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3382"
+				"x"		"4104.08984375"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"3561"
+				"x"		"3928.0895996094"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"3372"
+				"x"		"3928.0895996094"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"4"
+			{
+				"Y"		"3183"
+				"x"		"3857.0895996094"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"5"
+			{
+				"Y"		"3457.9099121094"
+				"x"		"3914"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-9"
+			}
+		}
+		"name"		"House #5"
+		"category"		"Houses"
+		"id"		"house_5"
+		"price"		"3000"
+		"icon"		"houses/downtown/house_5"
+		"description"		"A large house."
+	}
+	"24"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3443"
+				"x"		"2319"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"3517"
+				"x"		"2047"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"3575"
+				"x"		"1795"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Shop #7"
+		"category"		"Shops"
+		"id"		"town_shop_7"
+		"price"		"1000"
+		"icon"		"houses/downtown/town_shop_7"
+		"description"		"A small shop."
+	}
+	"25"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-6585"
+				"x"		"-2218"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+			"2"
+			{
+				"Y"		"-7002.8198242188"
+				"x"		"-1790"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+			"3"
+			{
+				"Y"		"-6584"
+				"x"		"-1872.5"
+				"model"		"*158"
+				"z"		"-139"
+			}
+		}
+		"name"		"Suburbs Warehouse"
+		"category"		"Business"
+		"id"		"suburbs_warehouse"
+		"price"		"3000"
+		"icon"		"houses/downtown/suburbs_warehouse"
+		"description"		"A large warehouse in the suburbs."
+	}
+	"26"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7181"
+				"x"		"-1191"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-143"
+			}
+		}
+		"name"		"Suburbs Gas Station"
+		"category"		"Business"
+		"id"		"suburbs_gas_station"
+		"price"		"1000"
+		"icon"		"houses/downtown/suburbs_gas_station"
+		"description"		"A gas station in the suburbs."
+	}
+	"27"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1303"
+				"x"		"-810"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"378"
+			}
+			"2"
+			{
+				"Y"		"-941"
+				"x"		"-853"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"506"
+			}
+			"3"
+			{
+				"Y"		"-1082.0899658203"
+				"x"		"-724"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"506"
+			}
+			"4"
+			{
+				"Y"		"-920.15008544922"
+				"x"		"-798"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"378"
+			}
+		}
+		"name"		"Town Apartment Suite #4"
+		"category"		"Apartments"
+		"id"		"town_apartment_suite_4"
+		"price"		"2500"
+		"icon"		"houses/downtown/town_apartment_suite_4"
+		"description"		"A very nice apartment overlooking the town square."
+	}
+	"28"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1958"
+				"x"		"-872"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"114"
+			}
+			"2"
+			{
+				"Y"		"-2242"
+				"x"		"-1034"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"114"
+			}
+		}
+		"name"		"Town Apartment #4"
+		"category"		"Apartments"
+		"id"		"town_apartment_4"
+		"price"		"500"
+		"icon"		"houses/downtown/town_apartments_1"
+		"description"		"A small apartment overlooking the town square."
+	}
+	"29"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"921"
+				"x"		"2045"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"923"
+				"x"		"2172"
+				"model"		"*31"
+				"z"		"-138"
+			}
+			"3"
+			{
+				"Y"		"1665"
+				"x"		"2137"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"4"
+			{
+				"Y"		"1855"
+				"x"		"2163"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Harper Warehouse"
+		"category"		"Business"
+		"id"		"harper_warehouse"
+		"price"		"1500"
+		"icon"		"houses/downtown/harper_warehouse"
+		"description"		"A medium-sized warehouse."
+	}
+	"30"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-5918"
+				"x"		"-2140"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-145.71899414063"
+			}
+			"2"
+			{
+				"Y"		"-5592.1801757813"
+				"x"		"-2081"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-144.71899414063"
+			}
+		}
+		"name"		"Suburbs House #2"
+		"category"		"Houses"
+		"id"		"suburbs_house_2"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_house_234"
+		"description"		"A small house in the suburbs."
+	}
+	"31"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1702"
+				"x"		"-872"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14"
+			}
+			"2"
+			{
+				"Y"		"-1672"
+				"x"		"-1034"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14"
+			}
+		}
+		"name"		"Town Apartment #2"
+		"category"		"Apartments"
+		"id"		"town_apartment_2"
+		"price"		"500"
+		"icon"		"houses/downtown/town_apartments_1"
+		"description"		"A small apartment overlooking the town square."
+	}
+	"32"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1363"
+				"x"		"-818"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-6"
+			}
+			"2"
+			{
+				"Y"		"-1005"
+				"x"		"-856"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-6.0001997947693"
+			}
+			"3"
+			{
+				"Y"		"-941"
+				"x"		"-925"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-6.0001997947693"
+			}
+			"4"
+			{
+				"Y"		"-1300"
+				"x"		"-810"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-5.7186999320984"
+			}
+		}
+		"name"		"Town Apartment Suite #1"
+		"category"		"Apartments"
+		"id"		"town_apartment_suite_1"
+		"price"		"1500"
+		"icon"		"houses/downtown/town_apartment_suites"
+		"description"		"A nice apartment overlooking the town square."
+	}
+	"33"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1639"
+				"x"		"2377"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Storage Building #2"
+		"category"		"Business"
+		"id"		"storage_2"
+		"price"		"750"
+		"icon"		"houses/downtown/storage_2"
+		"description"		"A building in which to store your things."
+	}
+	"34"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"462"
+				"x"		"2419"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+		}
+		"name"		"House #1"
+		"category"		"Houses"
+		"id"		"house_1"
+		"price"		"1500"
+		"icon"		"houses/downtown/house_1"
+		"description"		"A medium-sized house."
+	}
+	"35"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"970"
+				"x"		"-651"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-86"
+			}
+			"2"
+			{
+				"Y"		"1519"
+				"x"		"-17"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"3"
+			{
+				"Y"		"1111"
+				"x"		"-269"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"4"
+			{
+				"Y"		"976.5"
+				"x"		"-500"
+				"model"		"*9"
+				"z"		"-78"
+			}
+			"5"
+			{
+				"Y"		"1222"
+				"x"		"-96"
+				"model"		"*18"
+				"z"		"-125"
+			}
+			"6"
+			{
+				"Y"		"1017"
+				"x"		"-269"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"7"
+			{
+				"Y"		"1425"
+				"x"		"-17"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"8"
+			{
+				"Y"		"1222"
+				"x"		"-200"
+				"model"		"*19"
+				"z"		"-125"
+			}
+		}
+		"name"		"Marr Freight Company Warehouse"
+		"category"		"Business"
+		"id"		"marr_warehouse"
+		"price"		"2000"
+		"icon"		"houses/downtown/marr_warehouse"
+		"description"		"A large warehouse."
+	}
+	"36"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"2709"
+				"x"		"2223"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"2807"
+				"x"		"1795"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"House #3"
+		"category"		"Houses"
+		"id"		"house_3"
+		"price"		"2000"
+		"icon"		"houses/downtown/house_3"
+		"description"		"A large house."
+	}
+	"37"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7175"
+				"x"		"-348"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"130.25"
+			}
+			"2"
+			{
+				"Y"		"-6837"
+				"x"		"-347"
+				"model"		"*155"
+				"z"		"131"
+			}
+			"3"
+			{
+				"Y"		"-7045"
+				"x"		"-486"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"130"
+			}
+		}
+		"name"		"Suburbs Apartment #3"
+		"category"		"Apartments"
+		"id"		"suburbs_apartment_3"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_apartments"
+		"description"		"A small apartment in the suburbs."
+	}
+	"38"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4358"
+				"x"		"3007"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-218"
+			}
+		}
+		"name"		"Slums Apartment #10"
+		"category"		"Apartments"
+		"id"		"slums_apartment_10"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"39"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"1609"
+				"x"		"497"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"1759"
+				"x"		"923"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"2"
+			}
+			"3"
+			{
+				"Y"		"1543"
+				"x"		"987"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Hotel"
+		"category"		"Houses"
+		"id"		"hotel"
+		"price"		"2000"
+		"icon"		"houses/downtown/hotel"
+		"description"		"A nice hotel."
+	}
+	"40"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"428"
+				"x"		"-1441.9100341797"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"2"
+			{
+				"Y"		"653"
+				"x"		"-1439.5"
+				"model"		"*42"
+				"z"		"-102"
+			}
+			"3"
+			{
+				"Y"		"522"
+				"x"		"-1441.9100341797"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+		}
+		"name"		"Parker Building Materials Warehouse"
+		"category"		"Business"
+		"id"		"parker_warehouse"
+		"price"		"1500"
+		"icon"		"houses/downtown/parker_warehouse"
+		"description"		"A large warehouse."
+	}
+	"41"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4785"
+				"x"		"2565"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-82"
+			}
+		}
+		"name"		"Slums Apartment #5"
+		"category"		"Apartments"
+		"id"		"slums_apartment_5"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"42"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1454"
+				"x"		"2376"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+		}
+		"name"		"Slums House #2"
+		"category"		"Houses"
+		"id"		"slums_house_2"
+		"price"		"750"
+		"icon"		"houses/downtown/slums_house_2"
+		"description"		"A very small house in the slums."
+	}
+	"43"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7175"
+				"x"		"-192"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"130.25"
+			}
+			"2"
+			{
+				"Y"		"-6837"
+				"x"		"-113"
+				"model"		"*156"
+				"z"		"131"
+			}
+			"3"
+			{
+				"Y"		"-7041"
+				"x"		"6"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"130.25"
+			}
+		}
+		"name"		"Suburbs Apartment #4"
+		"category"		"Apartments"
+		"id"		"suburbs_apartment_4"
+		"price"		"2000"
+		"icon"		"houses/downtown/suburbs_apartments"
+		"description"		"A small apartment in the suburbs."
+	}
+	"44"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-7104"
+				"x"		"-2308"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-112"
+			}
+			"2"
+			{
+				"Y"		"-7064"
+				"x"		"-2715"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-112"
+			}
+		}
+		"name"		"Suburbs House #1"
+		"category"		"Houses"
+		"id"		"suburbs_house_1"
+		"price"		"2500"
+		"icon"		"houses/downtown/suburbs_house_1"
+		"description"		"A nice house in the suburbs."
+	}
+	"45"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1487.9100341797"
+				"x"		"955"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"2"
+			{
+				"Y"		"-1487.9100341797"
+				"x"		"861"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"3"
+			{
+				"Y"		"-1645"
+				"x"		"815.90850830078"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"4"
+			{
+				"Y"		"-1946"
+				"x"		"360.48950195313"
+				"model"		"*104"
+				"z"		"-78"
+			}
+		}
+		"name"		"Starline Warehouse"
+		"category"		"Business"
+		"id"		"starline_warehouse"
+		"price"		"2000"
+		"icon"		"houses/downtown/starline_warehouse"
+		"description"		"A warehouse in the city."
+	}
+	"46"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2144"
+				"x"		"-944"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"-1662"
+				"x"		"-1046"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"-1614"
+				"x"		"-872"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Shop #1"
+		"category"		"Shops"
+		"id"		"town_shop_1"
+		"price"		"1000"
+		"icon"		"houses/downtown/town_shop_1"
+		"description"		"A shop in the town square."
+	}
+	"47"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-633.07006835938"
+				"x"		"-2205.0200195313"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-140.99699401855"
+			}
+			"2"
+			{
+				"Y"		"-633.07006835938"
+				"x"		"-2299.0400390625"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141"
+			}
+		}
+		"name"		"Laboratory"
+		"category"		"Business"
+		"id"		"laboratory"
+		"price"		"500"
+		"icon"		"houses/downtown/laboratory"
+		"description"		"A research facility in the town square."
+	}
+	"48"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"3300.7197265625"
+				"x"		"4954.91015625"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"2"
+			{
+				"Y"		"3206.7197265625"
+				"x"		"4954.91015625"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"3"
+			{
+				"Y"		"3161.9099121094"
+				"x"		"5112"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Warehouse #2"
+		"category"		"Business"
+		"id"		"warehouse_2"
+		"price"		"1500"
+		"icon"		"houses/downtown/warehouse_2"
+		"description"		"A warehouse."
+	}
+	"49"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4785"
+				"x"		"2949"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-82"
+			}
+		}
+		"name"		"Slums Apartment #4"
+		"category"		"Apartments"
+		"id"		"slums_apartment_4"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"50"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-2263"
+				"x"		"2377"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+		}
+		"name"		"Slums House #1"
+		"category"		"Houses"
+		"id"		"slums_house_1"
+		"price"		"750"
+		"icon"		"houses/downtown/slums_house_1"
+		"description"		"A very small house in the slums"
+	}
+	"51"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"308.36380004883"
+				"x"		"-1005.9299926758"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-141.71899414063"
+			}
+			"2"
+			{
+				"Y"		"192"
+				"x"		"-841"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"250"
+			}
+		}
+		"name"		"Town Shop #4"
+		"category"		"Shops"
+		"id"		"town_shop_4"
+		"price"		"2000"
+		"icon"		"houses/downtown/town_shop_4"
+		"description"		"A large shop in the town square."
+	}
+	"52"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4601"
+				"x"		"3237"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-218"
+			}
+		}
+		"name"		"Slums Apartment #8"
+		"category"		"Apartments"
+		"id"		"slums_apartment_8"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"53"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-455"
+				"x"		"-1459"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Shop #2"
+		"category"		"Shops"
+		"id"		"town_shop_2"
+		"price"		"750"
+		"icon"		"houses/downtown/town_shop_2"
+		"description"		"A shop in the town square."
+	}
+	"54"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-1702"
+				"x"		"-872"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"114"
+			}
+			"2"
+			{
+				"Y"		"-1672"
+				"x"		"-1034"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"114"
+			}
+		}
+		"name"		"Town Apartment #3"
+		"category"		"Apartments"
+		"id"		"town_apartment_3"
+		"price"		"500"
+		"icon"		"houses/downtown/town_apartments_1"
+		"description"		"A small apartment overlooking the town square."
+	}
+	"55"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"4677"
+				"x"		"3007"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-218"
+			}
+		}
+		"name"		"Slums Apartment #9"
+		"category"		"Apartments"
+		"id"		"slums_apartment_9"
+		"price"		"500"
+		"icon"		"houses/downtown/slums_apartments_2"
+		"description"		"A small apartment in the slums."
+	}
+	"56"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-345"
+				"x"		"-1459"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"-391"
+				"x"		"-1767"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+		}
+		"name"		"Town Shop #3"
+		"category"		"Shops"
+		"id"		"town_shop_3"
+		"price"		"1000"
+		"icon"		"houses/downtown/town_shop_3"
+		"description"		"A shop in the town square."
+	}
+	"57"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-5891"
+				"x"		"-913"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142.43699645996"
+			}
+			"2"
+			{
+				"Y"		"-5653"
+				"x"		"-769"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142.43699645996"
+			}
+			"3"
+			{
+				"Y"		"-5864"
+				"x"		"-849"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142.43699645996"
+			}
+			"4"
+			{
+				"Y"		"-5608"
+				"x"		"-871"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14.437799453735"
+			}
+			"5"
+			{
+				"Y"		"-5490.8198242188"
+				"x"		"-595"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-143.43699645996"
+			}
+			"6"
+			{
+				"Y"		"-5761"
+				"x"		"-810"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14.437799453735"
+			}
+		}
+		"name"		"Suburbs House #5"
+		"category"		"Houses"
+		"id"		"suburbs_house_5"
+		"price"		"3500"
+		"icon"		"houses/downtown/suburbs_house_5"
+		"description"		"A large house in the suburbs. Comes with a yard."
+	}
+	"58"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"1139"
+				"x"		"497"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"2"
+			{
+				"Y"		"1279"
+				"x"		"837"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-142"
+			}
+			"3"
+			{
+				"Y"		"1251.5"
+				"x"		"714"
+				"model"		"*15"
+				"z"		"-136"
+			}
+			"4"
+			{
+				"Y"		"1041"
+				"x"		"509"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"-14"
+			}
+		}
+		"name"		"Town Shop #6"
+		"category"		"Shops"
+		"id"		"town_shop_6"
+		"price"		"1500"
+		"icon"		"houses/downtown/town_shop_6"
+		"description"		"A medium-sized shop."
+	}
+	"59"
+	{
+		"doors"
+		{
+			"1"
+			{
+				"Y"		"-303"
+				"x"		"-1705"
+				"model"		"models/props_c17/door01_left.mdl"
+				"z"		"14"
+			}
+			"2"
+			{
+				"Y"		"-540.02008056641"
+				"x"		"-1706.5"
+				"model"		"*47"
+				"z"		"8"
+			}
+			"3"
+			{
+				"Y"		"-412.01998901367"
+				"x"		"-1706.5"
+				"model"		"*46"
+				"z"		"8"
+			}
+			"4"
+			{
+				"Y"		"-653.5"
+				"x"		"-1932.0200195313"
+				"model"		"*48"
+				"z"		"8"
+			}
+			"5"
+			{
+				"Y"		"-653.5"
+				"x"		"-1804.0200195313"
+				"model"		"*49"
+				"z"		"8"
+			}
+		}
+		"name"		"Rooftop Apartment"
+		"category"		"Apartments"
+		"id"		"rooftop_apartment"
+		"price"		"1000"
+		"icon"		"houses/downtown/rooftop_apartment"
+		"description"		"An apartment overlooking the town square."
+	}
+}
